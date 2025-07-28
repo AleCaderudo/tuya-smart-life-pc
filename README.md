@@ -1,7 +1,7 @@
 
 # Tuya Smart-life PC Nuvem
 
-Este projeto oferece uma interface gráfica em Python (Tkinter) para controlar dispositivos inteligentes integrados com a nuvem da Tuya Smart Life. Ele permite controlar luzes, cortinas, alarmes, sensores de temperatura/umidade, ar-condicionado infravermelho e muito mais diretamente do seu computador com Windows.
+Este projeto oferece uma interface gráfica em Python (Tkinter) para controlar dispositivos inteligentes integrados com a nuvem da Tuya Smart Life. Ele permite controlar luzes, cortinas, alarmes, sensores de temperatura/umidade, ar-condicionado infravermelho e muito mais diretamente do seu computador com Windows sem a necessidade de uso de emuladores ou qualquer tipo de virtualização.
 
 ![Interface](online.jpg)
 
