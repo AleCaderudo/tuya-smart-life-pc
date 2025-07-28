@@ -1,0 +1,13 @@
+[
+  { "id": "20087058f4cfa25fc71b", "name": "Monitor", "tipo": "comum", "code": "switch_2" },
+  { "id": "20087058f5cfa25fc71b", "name": "TV / Tela", "tipo": "comum", "code": "switch_1" },
+  { "id": "ebb34f6250a1737f47gsuq", "name": "Lençol", "tipo": "comum", "code": "switch_1" },
+  { "id": "20087056f4cfa25fc71b", "name": "Respirador", "tipo": "comum", "code": "switch_4" },
+  { "id": "eb885dd17d79a6c6a8njya", "name": "Pantufa", "tipo": "comum", "code": "switch_3" },
+  { "id": "11733687v4e62d7d0d90", "name": "Luz Quarto", "tipo": "comum", "code": "switch_1" },
+  { "id": "eb885dd16v79a6c6a8njya", "name": "Armadilha", "tipo": "comum", "code": "switch_1" },
+  { "id": "ebe1e298e46b8e6018umvh", "name": "Portão", "tipo": "portao", "code": "switch_1" },
+  { "id": "eb885dd17d79a6c6a8njya", "name": "Estufa", "tipo": "comum", "code": "switch_2" },
+  { "id": "ebce677281ad05d6618u3k", "name": "Cortina", "tipo": "cortina", "code": "percent_state" }
+  
+]
