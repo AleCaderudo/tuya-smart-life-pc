@@ -74,4 +74,4 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais detalhes.
 
 ## 👨‍💻 Desenvolvido por
 
-[MHPS](https://www.mhps.com.br) – Soluções em automação e sistemas inteligentes.
+[MHPS](https://www.mhps.com.br){:target="_blank"} – Soluções em automação e sistemas inteligentes.
